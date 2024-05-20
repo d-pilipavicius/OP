@@ -1,0 +1,2 @@
+# Chat client and server
+This is a chat client and server created from scratch using sockets. The server saves the chats and the users. A custom message protocol is written for the message transfer and login.

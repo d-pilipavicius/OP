@@ -1,0 +1,7 @@
+0
+3
+peter
+susan
+id
+1
+peter: this is a group chat
